@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194396020984",
+    "project_id": "papp-fcbdf",
+    "storage_bucket": "papp-fcbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194396020984:android:c7568eb68b8341a179db0d",
+        "android_client_info": {
+          "package_name": "com.example.p_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEzWnqe1uleyxhGf74DoZzQ9typu0r-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
